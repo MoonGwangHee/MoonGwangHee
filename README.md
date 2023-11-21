@@ -9,7 +9,7 @@
 
 <b> Language </b> <br>
 
-<a target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=flat-square&logo=appveyor&logoColor=#6DB33F"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Spring Boot?style=flat-square&logo=Spring Boot&logoColor=#6DB33F"/></a>
 
 
 
