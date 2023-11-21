@@ -15,4 +15,4 @@
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=black"/> <br><br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgh7020@gmail.com&show_icons=true&theme=light)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0f22d2ddc7cea3ffb79cd02e3428a8df&show_icons=true&theme=light)
