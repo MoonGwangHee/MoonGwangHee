@@ -1,8 +1,8 @@
 ﻿# 🔥 BackEndDeveloper - Junior 🔥
 
- 🎓 Chungwoon Univ - MuiltiMedia (3/4) years
+ 🎓 <b>Chungwoon Univ<b> - MuiltiMedia (3/4) years
  
-👋 Hi, I'm Moon Gwang Hee, a College Student who is developing a backend server using Spring Boot.
+👋 Hi, I'm Moon Gwang Hee, a College Student who is developing a backend server using <b>Spring Boot</b>.
 
 
 ## 💻Skills
