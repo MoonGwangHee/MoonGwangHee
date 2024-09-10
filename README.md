@@ -1,6 +1,6 @@
 ﻿# 🔥 BackEndDeveloper - Junior 🔥
 
- 🎓 <b>Chungwoon Univ<b> - MuiltiMedia (4-1/4) ~ing
+ 🎓 <b>Chungwoon Univ<b> - MuiltiMedia (4-2/4) ~ing
  
 👋 Hi, I'm Moon Gwang Hee, a College Student who is developing a backend server using <b>Spring Boot</b>.
 
