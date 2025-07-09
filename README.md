@@ -33,5 +33,5 @@
 
 ## 📫 Contact
 
-📧 Email: **mghee0413@gmail.com**  
+📧 Email: **mgh7020@gmail.com**  
 📍 Location: Republic of Korea  
